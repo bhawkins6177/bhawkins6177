@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhawkins6177
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything I can help with 
 - 📫 How to reach me you can reach me at bhawkins6177@gmail.com
 
